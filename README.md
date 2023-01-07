@@ -6,6 +6,10 @@
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! I am a junior Front-end%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
+      
+      
+  <img align="right" alt="Coding" width="400" src="https://s3.amazonaws.com/images.seroundtable.com/minion-typing-1570535370.gif"
+      />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Web Development**
@@ -34,7 +38,7 @@
   <img src="https://visitcount.itsvg.in/api?id=arthurefraim&label=Profile%20views&color=0&pretty=true" />
 </a>
 
-[![](https://visitcount.itsvg.in/api?id=arthurefraim&label=Profile%20views&color=0&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=arthurefraim&label=Profile%20views&color=0&pretty=true)](https://visitcount.itsvg.in)
 ---
 
 
