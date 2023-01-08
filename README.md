@@ -34,7 +34,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
   [![](https://visitcount.itsvg.in/api?id=arthurefraim&label=Profile%20views&color=0&pretty=true)](https://visitcount.itsvg.in)
 ---
 
