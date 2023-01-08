@@ -34,9 +34,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=arthurefraim&label=Profile%20views&color=0&pretty=true" />
-</a>
 
   [![](https://visitcount.itsvg.in/api?id=arthurefraim&label=Profile%20views&color=0&pretty=true)](https://visitcount.itsvg.in)
 ---
